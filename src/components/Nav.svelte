@@ -24,7 +24,7 @@
 		padding: 0;
 	}
 
-	
+
 	ul::after {
 		content: '';
 		display: block;
